@@ -19,7 +19,7 @@
     "chai": "^4.2.0",
     "mocha": "^6.2.1",
     "node-read-yaml-files": "file:.",
-    "nyc": "^14.1.1",
+    "nyc": "^15.0.1",
     "xo": "^0.25.3"
   },
   "keywords": [
