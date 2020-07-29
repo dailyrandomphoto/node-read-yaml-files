@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "array.prototype.flat": "^1.2.2",
-    "node-read-yaml": "0.0.1",
+    "node-read-yaml": "^1.0.0",
     "recursive-readdir": "^2.2.2"
   },
   "devDependencies": {
