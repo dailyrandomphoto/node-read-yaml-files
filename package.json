@@ -1,6 +1,6 @@
 {
   "name": "node-read-yaml-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Read and parse YAML files in a directory and its subdirectories.",
   "main": "index.js",
   "scripts": {
